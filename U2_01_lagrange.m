@@ -2,7 +2,7 @@
 clc
 clear all
 %% DATOS DE ENTRADA
-n=input('Grado del Polinomio de Colocación: ');
+n=input('Nro Puntos muestrales: ');
 xr=input('Abscisa cuya ordenada se desea obtener: ');
 
 for i=1:n
